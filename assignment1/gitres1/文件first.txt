@@ -1,0 +1,8 @@
+repository作为储存库，储存编译文件
+Branch作为分支，提高效率
+commit用于查看节点
+pull requst发起请求，对代码进行改编
+star为一些感兴趣的代码或项目点赞
+fork是服务端的仓库克隆
+watch浏览他人项目
+follow关注感兴趣某博主
