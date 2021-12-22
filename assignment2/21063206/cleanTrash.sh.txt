@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "trash will be cleared soon..."
+rm -rfv ~/.local/share/Trash
+echo "trash has been cleared successfully"
