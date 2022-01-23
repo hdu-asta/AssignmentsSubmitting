@@ -3,7 +3,6 @@
 int main(int argc,char **argv)
 {
 int i;
-int j;
 
 for(i=1;i<argc;i++)
 {
