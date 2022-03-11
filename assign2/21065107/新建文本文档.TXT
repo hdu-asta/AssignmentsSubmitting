@@ -1,0 +1,10 @@
+#!/bin/bash
+for file in /.Trash/*
+do
+  if test - f $file
+  then
+      arr=(${arr[*]} $file)
+  fi
+done
+echo ${arr[@]}
+sudo rm-fr/root/.Trash/
